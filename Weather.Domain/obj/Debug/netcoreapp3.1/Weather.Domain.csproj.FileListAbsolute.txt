@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Weather\Weather.Domain\bin\Debug\netcoreapp3.1\Weather.Domain.deps.json
+C:\Users\User\source\repos\Weather\Weather.Domain\bin\Debug\netcoreapp3.1\Weather.Domain.dll
+C:\Users\User\source\repos\Weather\Weather.Domain\bin\Debug\netcoreapp3.1\Weather.Domain.pdb
+C:\Users\User\source\repos\Weather\Weather.Domain\bin\Debug\netcoreapp3.1\Weather.Data.dll
+C:\Users\User\source\repos\Weather\Weather.Domain\bin\Debug\netcoreapp3.1\Weather.Data.pdb
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.csproj.CopyComplete
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.dll
+C:\Users\User\source\repos\Weather\Weather.Domain\obj\Debug\netcoreapp3.1\Weather.Domain.pdb
